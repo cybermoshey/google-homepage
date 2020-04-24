@@ -5,6 +5,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: transparent;
+    font-size: 12px;
 }
 li{
     float: left;
