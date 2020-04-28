@@ -1,10 +1,17 @@
 /* CSS stylesheet */
-ul {
+#top-nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: transparent;
+    font-size: 12px;
+}
+#bottom-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     font-size: 12px;
 }
 li{
